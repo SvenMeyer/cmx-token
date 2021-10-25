@@ -1,6 +1,17 @@
+# CMX token
+
+Token of [CommX](https://commx.io)
+
+## Deploments
+
+ETH mainnet : [`0xf6eCF98678147354d8E904FA9450D8060a4E685c`](https://etherscan.io/address/0xf6ecf98678147354d8e904fa9450d8060a4e685c)
+
+Rinkeby : [`0x14ebcab30E3E27587a09611F3D11A43ed224717B`](https://rinkeby.etherscan.io/address/0x14ebcab30e3e27587a09611f3d11a43ed224717b)
+
+
 # Solidity Template
 
-My favourite setup for writing Solidity smart contracts.
+Used the Solidity template [https://github.com/paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) from [@PaulRBerg](https://github.com/paulrberg)
 
 - [Hardhat](https://github.com/nomiclabs/hardhat): compile and run the smart contracts on a local development network
 - [TypeChain](https://github.com/ethereum-ts/TypeChain): generate TypeScript types for smart contracts
@@ -10,8 +21,6 @@ My favourite setup for writing Solidity smart contracts.
 - [Solcover](https://github.com/sc-forks/solidity-coverage): code coverage
 - [Prettier Plugin Solidity](https://github.com/prettier-solidity/prettier-plugin-solidity): code formatter
 
-This is a GitHub template, which means you can reuse it as many times as you want. You can do that by clicking the "Use this
-template" button at the top of the page.
 
 ## Usage
 
